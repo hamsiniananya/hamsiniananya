@@ -74,7 +74,6 @@ I'm passionate about **Artificial Intelligence, Machine Learning, Data Science, 
 * 🧮 Python Utilities
 * 📚 365 Days of Learning
 
-*(More exciting projects coming soon.)*
 
 ---
 
@@ -97,8 +96,8 @@ I'm passionate about **Artificial Intelligence, Machine Learning, Data Science, 
 
 ## 🤝 Connect With Me
 
-* LinkedIn: *(Add your LinkedIn URL here)*
-* GitHub: *(This profile!)*
+* LinkedIn: https://www.linkedin.com/in/hamsiniananya/
+* GitHub: https://www.github.com/in/hamsiniananya/
 
 ---
 
