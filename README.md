@@ -1,110 +1,116 @@
-# Hi there, I'm Ananya! 👋
+# Hey, I'm Ananya.
 
-### AI & Data Science Student | Machine Learning Enthusiast | Building Things That Matter
+**Data Science & AI @ BITS Pilani · building, breaking, learning, repeating.**
 
-I'm a final-year B.Sc. student pursuing **Mathematics, Physics & Chemistry** while simultaneously earning a **B.S. in Data Science and AI** from **BITS Pilani**.
+I'm currently doing a **B.S. in Data Science & AI from BITS Pilani** alongside my B.Sc. in **Mathematics, Physics & Chemistry**.
 
-I'm passionate about **Artificial Intelligence, Machine Learning, Data Science, and Full-Stack AI Applications**. My goal is to build intelligent products that solve real-world problems and continue growing into an AI Engineer.
+I like figuring out how things work, turning messy problems into something useful, and then inevitably overengineering the solution.
 
----
-
-## 🚀 Currently Working On
-
-* 🤖 AI-powered applications
-* 📊 Machine Learning projects
-* 📈 Data Science & Analytics
-* 🧠 Learning LLMs, AI Agents & Prompt Engineering
-* 🌐 Building my GitHub portfolio one project at a time
+Right now, most of my time goes into **machine learning, AI applications, automation, and building things that are actually usable**.
 
 ---
 
-## 🛠️ Tech Stack
+### what I'm up to
 
-### Languages
+🔭 Building **AI-powered applications & automation workflows**
 
-* Python
-* SQL
-* HTML
-* CSS
-* JavaScript (Learning)
+🧠 Going deeper into **Machine Learning, LLMs, RAG & AI agents**
 
-### Machine Learning & Data Science
+📊 Working with **data, statistics, ML models & visualisation**
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Jupyter Notebook
-
-### AI
-
-* OpenAI APIs
-* LangChain
-* AI Agents
-* Prompt Engineering
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Google Colab
-* Canva
-* Figma
+🧪 Exploring the intersection of **science + computation**
 
 ---
 
-## 📚 Current Learning
+### things I've built
 
-* Machine Learning
-* Deep Learning
-* Large Language Models (LLMs)
-* AI Agents
-* Data Structures & Algorithms
-* Statistics for AI
-* System Design Basics
+**🤖 AI / Automation**
 
----
+- AI-powered applications
+- AI assistants & retrieval-based systems
+- Automation workflows
+- Experiments with LLMs and AI agents
 
-## 📌 Featured Projects
+**📊 Machine Learning**
 
-* 📊 Machine Learning Projects
-* 🤖 AI Applications
-* 📈 Data Analysis Projects
-* 🧮 Python Utilities
-* 📚 365 Days of Learning
+- End-to-end ML projects
+- Feature engineering & selection
+- Data preprocessing and leakage prevention
+- Model evaluation and generalisation
 
+**📈 Data**
 
----
+- Exploratory data analysis
+- Data visualisation
+- Sales & business analytics
+- Statistical analysis
 
-## 🌱 2026 Goals
+**🧪 Science + Computing**
 
-* Build high-quality AI projects
-* Contribute to GitHub consistently
-* Publish technical articles
-* Strengthen my Machine Learning portfolio
-* Land an AI/ML internship
-* Continue presenting at technical conferences
+- Computational physics projects
+- Numerical modelling
+- Currently working through **Neutron Star EOS + TOV equations**
 
 ---
 
-## 📈 GitHub Stats
+### my toolbox
 
-> GitHub Stats and Streak cards can be added here using GitHub Readme Stats.
+**Languages**
+
+`Python` `SQL` `HTML` `CSS` `JavaScript`
+
+**Data / ML**
+
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Jupyter`
+
+**AI**
+
+`LLMs` `RAG` `AI Agents` `OpenAI APIs` `LangChain`
+
+**Build / Design**
+
+`Git` `GitHub` `VS Code` `Google Colab` `Figma` `Canva`
 
 ---
 
-## 🤝 Connect With Me
+### currently learning
 
-* LinkedIn: https://www.linkedin.com/in/hamsiniananya/
-* GitHub: https://www.github.com/in/hamsiniananya/
+Machine Learning · Deep Learning · LLMs · AI Agents · DSA · Statistics · System Design
 
----
-
-### 💡 A Quote I Like
-
-> *"Stay curious. Build consistently. Let your work speak louder than your titles."*
+And, occasionally, whatever weird problem I decide to build a project around.
 
 ---
 
-⭐ Thanks for visiting my profile!
+### a few things you'll find here
+
+📁 ML experiments  
+🤖 AI projects  
+📊 Data analysis & visualisation  
+🧪 Computational/scientific work  
+📚 Learning notes  
+🔨 Projects that started as “this should be easy”
+
+---
+
+### 2026
+
+My main goal isn't to collect certificates.
+
+It's to **build enough real things that I can look at my GitHub and see how much better I've become.**
+
+So:
+
+→ build more  
+→ understand things properly  
+→ contribute consistently  
+→ make things people can actually use
+
+---
+
+### find me
+
+[LinkedIn](https://www.linkedin.com/in/hamsiniananya/) · [GitHub](https://github.com/hamsiniananya/)
+
+<br>
+
+> *still figuring it out. building anyway.*
