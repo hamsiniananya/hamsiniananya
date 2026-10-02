@@ -1,9 +1,5 @@
 # Hey, I'm Ananya.
 
-**Data Science & AI @ BITS Pilani · building, breaking, learning, repeating.**
-
-I'm currently doing a **B.S. in Data Science & AI from BITS Pilani** alongside my B.Sc. in **Mathematics, Physics & Chemistry**.
-
 I like figuring out how things work, turning messy problems into something useful, and then inevitably overengineering the solution.
 
 Right now, most of my time goes into **machine learning, AI applications, automation, and building things that are actually usable**.
